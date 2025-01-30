@@ -20,6 +20,12 @@ A recurring issue with high scrap rates and increased inspection times for body 
 
 <h2> Solution:</h2>
 To address these challenges, a 12' bar feeder system was implemented, replacing the saw cutting operation. The bar feeder allows for the raw material to be directly fed into the production process without the intermediary cutting step, optimizing material utilization and preventing surface damage.
+<p align="center">
+<br/>
+<img src="https://imgur.com/lXhNY2g.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<p align="center">
+<br/>
+<img src="https://imgur.com/vJ5O6wJ.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 
 <h2> Outcome:</h2>
 The transition to the 12' bar feeder system significantly improved the overall production efficiency, reducing scrap, inspection time, and surface defects. These changes resulted in cost savings, improved throughput, and enhanced product quality, addressing the key issues identified in the Non-Conformance Report (NCR).
